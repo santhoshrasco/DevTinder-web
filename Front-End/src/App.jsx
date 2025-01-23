@@ -1,10 +1,10 @@
 
-
+import tailwindcss from '@tailwindcss/vite'
 function App() {
   
   return (
     <>
-      
+        
       <h1>Hello World</h1>
 
     </>
